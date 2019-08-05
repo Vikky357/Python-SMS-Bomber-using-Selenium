@@ -1,3 +1,4 @@
+This is purely for EDUCATIONAL PURPOSE to understand the selenium.I am not Responsible for any Illegal or Misuse of the Script.
 This is Simple SMS BOMBER for Flipkart using Python and Selenium
 Step 1:For this you need to install Python
 Step 2:You need to install selenium (website:https://pypi.org/project/selenium/)
